@@ -1,3 +1,4 @@
+//add to github
 #include <cmath>    //定义数学函数
 #include <cstring> //字符串处理
 #include <iostream>  //数据流输入／输出
